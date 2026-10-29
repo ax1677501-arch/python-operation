@@ -1,6 +1,6 @@
 
-a=input("Enter a first  number ")
-b =input("enter second number")
+a=10
+b =20
 sum=int(a)+int(b)
 mul=int(a)*int(b)
 div=int(a)/int(b)
